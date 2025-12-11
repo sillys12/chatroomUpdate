@@ -1,0 +1,10 @@
+com\chat\servlet\LoginServlet.class
+com\chat\filter\LoginFilter.class
+com\chat\util\JsonUtil.class
+com\chat\servlet\ChatServlet.class
+com\chat\servlet\LogoutServlet.class
+com\chat\model\User.class
+com\chat\servlet\ClosePrivateChatServlet.class
+com\chat\servlet\UserListServlet.class
+com\chat\listener\UserSessionListener.class
+com\chat\model\Message.class
